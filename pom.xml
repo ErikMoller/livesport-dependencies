@@ -13,6 +13,7 @@
     <modules>
         <module>livesport-test-dependencies</module>
         <module>livesport-common-dependencies</module>
+        <module>livesport-integration-dependencies</module>
     </modules>
 
 
