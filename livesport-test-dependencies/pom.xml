@@ -13,8 +13,6 @@
     <artifactId>livesport-test-dependencies</artifactId>
     <name>LiveSport Test Dependencies</name>
 
-
-
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -26,6 +24,11 @@
                 <groupId>org.yaml</groupId>
                 <artifactId>snakeyaml</artifactId>
                 <version>1.15</version>
+            </dependency>
+            <dependency>
+                <groupId>org.mockito</groupId>
+                <artifactId>mockito-all</artifactId>
+                <version>1.9.5</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
